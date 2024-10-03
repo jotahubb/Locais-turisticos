@@ -95,3 +95,10 @@ ul {
 .li-purple{
  color: #591B98;
 }
+
+footer{
+  margin-top: 64px;
+  text-align: center;
+  color: #29292E;
+  font-weight: bold;
+}
